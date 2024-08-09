@@ -1,0 +1,31 @@
+jogos:
+    nome
+    autor
+    tipo
+    preço
+    data lançamento
+    nota x/10
+
+clientes:
+    login
+    nome
+    contato
+    lista de jogos:
+        quais jogos possui
+        tempo de jogo    
+        que nota da para o jogo
+    lista de amigos
+    avg dos tipos de jogos
+    grupos,chat:privado/grupo
+
+busca de jogos por tipo,nota,quem comprou/jogou
+
+registro de vendas:
+    qual cliente comprou
+    qual jogo foi comprado
+    quanto pagou
+    quando foi comprado
+
+como inserir, editar, e requisitar as informações
+
+como mostrar os jogos em orderm alfabética
